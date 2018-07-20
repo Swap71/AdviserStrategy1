@@ -90,7 +90,7 @@ namespace AdviserStrategy1
 
             IWebElement element2 = driver.FindElement(By.XPath(".//*[@id='ctl00_memberslogin_Login1_LoginButton']"));
             element2.Click();
-
+            //Added here....
 
         }
 
